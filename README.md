@@ -10,9 +10,11 @@ Nothing big right now, a lot of my time is spent on homework and my job.
 - Java
 - Intro to C
 - Data structures and Algorithms
-- Networks 1
+- Networks 1+2
+- Object Oriented Programing
 
 ## Languages I know
 - java (bit rusty)
 - c (current love)
 - bash (very little)
+- C++ (learning)
