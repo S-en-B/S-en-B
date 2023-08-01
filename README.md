@@ -11,10 +11,10 @@ Nothing big right now, a lot of my time is spent on homework and my job.
 - Intro to C
 - Data structures and Algorithms
 - Networks 1+2
-- Object Oriented Programing
+- Object Oriented Programming
 
 ## Languages I know
-- java (bit rusty)
-- c (current love)
+- java (a bit rusty)
+- c (old flame)
 - bash (very little)
-- C++ (learning)
+- C++ (new flame)
